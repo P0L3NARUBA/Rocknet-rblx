@@ -3,6 +3,7 @@
 <h1 align="center"> Rocknet </h1>
 
 <p align="center"> A Server-side Implementation for Roblox 2016 Source Code  </p>
+<p align="center"><b>NOTE:</b> Roblox Recently Did some changes to their APIs, some assets may return <b>401 Unauthorized</b>, so use <b>local</b> branch.</p>
 
 <h2 align="center"> Setting the Server Up </h2>
 
